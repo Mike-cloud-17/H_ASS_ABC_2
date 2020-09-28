@@ -111,17 +111,17 @@ PrintSecondArray:
 
 ![Image alt](./Upd2Code2.png)
 
-В проуедуре Finish добавлена очистка памяти под 2 массив:
+В процедуре Finish добавлена очистка памяти под 2 массив:
 
 ![Image alt](./Upd2Code3.png)
 
 Я также провёл тест на неправильно введенный элемент массива:
 
-![Image alt](./Upd2Test1.png)
+![Image alt](./Upd2Test2.png)
 
 И финальный тест с выводом в новом формате на всех пограничных значениях относительно условия задачи:
 
-![Image alt](./Upd2Test2.png)
+![Image alt](./Upd2Test1.png)
 
 ## Источники
 1) http://www.nestor.minsk.by/kg/2008/34/kg83402.html (простые массивы)
